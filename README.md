@@ -1,5 +1,5 @@
 # GMNTCoin, Ecosystem for the DeFi Protocols Technology
-<div align="center"><img src="https://gmnt.org/wp-content/uploads/2024/02/cropped-231-1-removebg-preview.png" /><br />
+<div align="center"><img src="https://gmnt.org/wp-content/uploads/2024/02/231-1-removebg-preview.png" /><br />
 </div>
 <div align="center">
   <h1><br />
